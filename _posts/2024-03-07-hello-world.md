@@ -3,6 +3,7 @@ layout: post
 title:  "hello_world.txt"
 date:   2024-03-07 01:03:15 +0200
 categories: blog
+pinned: true
 excerpt: Hello, Internet! Yes, this is <i>the cool</i> initial post.
 ---
 
