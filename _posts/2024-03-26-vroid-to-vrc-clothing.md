@@ -15,6 +15,7 @@ I should *probably* preface this by absolving myself of credit where it's due in
 - Lady Aska covering how to add clothing toggles for Vroid VRMs - [YouTube Link][ladyaska];
 - Virtual Panda's video series on porting Vroid avatars to VRC - [YouTube playlist Link][virtualpanda].
 
+Also, this guide assumes you have already dabbled in creating and optimizing both VRoid and VRChat avatars alike(if not, go back and watch more videos!).<br>
 With that out of the way - let's get into it!
 
 ## Step 1: VRoid Studio Wardrobe Purgatory
