@@ -28,7 +28,7 @@ The example avatars provided with VRoid Studio *already* exercise this - you jus
 
 Another limitation I need to mention is that you can only have **up to 5 clothes** per spot, so you cannot go totally ham on a VRM file; however it doesn't stop you from adding more swaps later, so you can later come back and add more clothing options!
 
-Once you have everything set up, go ahead and export your avatar as a VRM 1.0, but **please remember** to uncheck the checkmarks of `Delete Transparent Meshes`, found in the Reduce Polygons drop-down, and `Combine Hair Mesh`, found in `Reduce Materials` drop-down - otherwise your avatar will be unworkable. See picture below for visual aid.
+Once you have everything set up, go ahead and export your avatar as a VRM, but **please remember** to uncheck the checkmarks of `Delete Transparent Meshes`, found in the Reduce Polygons drop-down, and `Combine Hair Mesh`, found in `Reduce Materials` drop-down - otherwise your avatar will be unworkable. See picture below for visual aid.
 
 <img src="/assets/posts/2024-mar/vroid2vrc_pic2.png" width="auto" height="auto">
 ##### This picture highlights two options you need to uncheck.
