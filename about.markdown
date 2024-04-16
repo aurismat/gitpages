@@ -10,7 +10,8 @@ permalink: /about/
 </center>
 
 ### **I am a Lithuanian streamer & content creator in general.**
-#### Also a freshman in the VTubing scene - still learning the ropes.
+#### ~~Also a freshman in the VTubing scene - still learning the ropes.~~
+#### Not anymore lmfao, retired from VTubing recently. [see this Twitter post][twtpost]
 
 <br>
 Originally starting in late 2020-early 2021, I have kept streaming as a hobby and enjoyed every minute of it ever since.
@@ -42,3 +43,4 @@ Interests include but are not limited to:
 [repo]: https://github.com/aurismat/gitpages
 [jekyll]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima
+[twtpost]: https://twitter.com/MrAurismat/status/1780336340367749436
