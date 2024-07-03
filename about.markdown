@@ -10,25 +10,26 @@ permalink: /about/
 </center>
 
 ### **I am a Lithuanian streamer & content creator in general.**
-#### ~~Also a freshman in the VTubing scene - still learning the ropes.~~
-#### Not anymore lmfao, retired from VTubing recently. [see this Twitter post][twtpost]
+#### Also a (relative)freshman in the VTubing scene - still learning the ropes.
 
 <br>
 Originally starting in late 2020-early 2021, I have kept streaming as a hobby and enjoyed every minute of it ever since.
 <br>
 
 Interests include but are not limited to:
-- Large variety of video games:
+- Large variety of video games(included but not limited to):
   - Shooters (no Battle Royales!);
   - Racing games (both sim and arcade);
   - FromSoftware's Souls Games;
   - Stealth games(mostly Splinter Cell);
   - Sandbox games(Minecraft, Terraria, Vintage Story etc);
   - 'Mechs games(MechWarrior series);
+  - OldSchool RuneScape;
 - Tinkering with electronics(DIY, consumer or otherwise);
 - Programming(when I have some downtime from doing that as my job);
-- Sometimes, woodworking;
+- Sometimes, woodworking & cooking;
 - Modeling in Autodesk Fusion, and texturing the models in Blender;
+- **NEW!!** 3D Printing and modeling for 3D prints;
 - Learning about cool stuff(like rigging models in Unity!);
 - And of course, <ins>making people laugh on the Internet</ins>!
 
@@ -43,4 +44,3 @@ Interests include but are not limited to:
 [repo]: https://github.com/aurismat/gitpages
 [jekyll]: https://jekyllrb.com/
 [minima]: https://github.com/jekyll/minima
-[twtpost]: https://twitter.com/MrAurismat/status/1780336340367749436
