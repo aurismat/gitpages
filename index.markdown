@@ -24,7 +24,7 @@ layout: home
     <img src="/assets/icons/twt.svg" width="auto" height="96px">
     <h2>twitter.com/MrAurismat</h2>
 </a>
-<a href="https://bsky.app/aurismat">
+<a href="https://bsky.app/profile/aurismat.net">
     <img src="/assets/icons/bsky1.svg" width="auto" height="96px">
     <h2>bsky.app/profile/aurismat.net</h2>
 </a>
