@@ -20,9 +20,9 @@ layout: home
     <img src="/assets/icons/yt.svg" width="auto" height="64px">
     <h2>youtube.com/@aurismat</h2>
 </a>
-<a href="https://twitter.com/MrAurismat">
+<a href="https://twitter.com/aurismat_">
     <img src="/assets/icons/twt.svg" width="auto" height="96px">
-    <h2>twitter.com/MrAurismat</h2>
+    <h2>twitter.com/aurismat_</h2>
 </a>
 <a href="https://bsky.app/profile/aurismat.net">
     <img src="/assets/icons/bsky1.svg" width="auto" height="96px">
