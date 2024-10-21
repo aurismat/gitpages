@@ -19,7 +19,7 @@ And as such, **Operation: Fuck Windows** had started to take shape. Now, why the
 For one, I really wanted to upgrade my SSD for both storage space and speed reasons - as much as SATA M.2 SSDs are great, your usual PCIe Gen 3.0 NVMe SSD runs **circles** around them!
 And seeing that the storage space is becoming a lot more affordable([Moore’s law][moore], but twice as slow in this case), I could now get two terabytes of blazing fast SSD storage for ~150 euros.
 
-For another reason, Windows 10 *consumer* editions would see End-of-Life at October 2025, which is a move I really don’t get, seeing that Windows 11 is still experiencing feature creep and [keeps constantly breaking for users][win11-kernel-failure]; but whatever.
+  For another reason, [Windows 10 *consumer* editions would see End-of-Life at October 2025][win10-eol], which is a move I really don’t get, seeing that Windows 11 is still experiencing feature creep and [keeps constantly breaking for users][win11-kernel-failure]; but whatever.
 Not a huge deal to me, since I had plans to install Linux as a daily driver for my main PC for a while now, and I had been using [Manjaro][manjaro], a fork of [Arch Linux (btw)][archlinux] on my work laptop and it’s been very usable for a lean, mean coding machine over there!
 
 So, I had taken the past week or so(as of writing of this blog post) to set up this plan, I ended up purchasing a [Western Digital SN850X 2TB SSD][sn850x], a speedy boi with plenty of space and most importantly, a dedicated DRAM cache - I had heard of horror stories of DRAM-less SSD’s that utilize host’s memory buffer(ELI5: use RAM as a DRAM cache for the SSD) [crash out on Windows 11][win11-ssd-crash], so I didn’t want that to happen.
@@ -74,6 +74,7 @@ Anyway, thanks for reading, put up your current gripes with Windows(or Linux, if
 
 [league-ac-patch]: https://www.reddit.com/r/leagueoflegends/comments/1civ4l7/update_from_riot_on_vanguard/
 [moore]: https://en.wikipedia.org/wiki/Moore's_law
+[win10-eol]: https://learn.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro
 [win11-kernel-failure]: https://answers.microsoft.com/en-us/windows/forum/all/windows-24h2-causing-kernal-power-failure/81c2379e-44d7-49c6-a97c-27aaf086d635
 [manjaro]: https://manjaro.org/
 [sn850x]: https://www.westerndigital.com/en-in/products/internal-drives/wd-black-sn850x-nvme-ssd
