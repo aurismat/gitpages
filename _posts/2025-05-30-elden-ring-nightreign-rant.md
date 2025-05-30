@@ -71,9 +71,13 @@ Ultimately however, this also stems another issue - what if you wish to grab a l
 
 Anyway, I'll wait for this feature to get patched before I consider picking this up.
 
-## Conclusion
+## 6. It's an asset flip.
 
 *ayo hold up this isn't Sif & Nameless*
+
+This one, while being an appended point, I feel like is one of the more important ones. While looking at it as a 'new' game, one must not forget that this was not a work of Hidetaka Miyazaki and instead a spin-off, re-using assets from both Elden Ring and older games, and in turn causing a lot of sales to be from retro-oriented folks who see the bosses as throwbacks into a new game. Not inherently a wrong opinion if I may add, but one that I feel FromSoft is banking on to succeed in the sales of this game. Rose-tinted glass retro vibe can be a strong selling point, after all - but it won't get me. *I see what they're doing.*
+
+## Conclusion
 
 In lieu of everything I have laid out(hopefully, in a logical manner as I'm still recovering from a slight hangover from last night's work teambuilding party), I will not be purchasing this game full price and I will be holding off on it until either I can get hold of it for cheap, or someone decides to make me play it by sponsoring me a copy of this game.
 
