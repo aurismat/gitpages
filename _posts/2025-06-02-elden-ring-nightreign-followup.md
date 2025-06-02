@@ -6,7 +6,9 @@ categories: blog
 excerpt: <i>Never judge a book by it's cover.</i>
 ---
 
-*> In lieu of everything I have laid out([...]), I will not be purchasing this game full price and I will be holding off on it until either I can get hold of it for cheap, or someone decides to make me play it by sponsoring me a copy of this game.*
+<blockquote>
+  <i>In lieu of everything I have laid out([...]), I will not be purchasing this game full price and I will be holding off on it until either I can get hold of it for cheap, or someone decides to make me play it by sponsoring me a copy of this game.</i>
+</blockquote>
 
 Well, *shit*. Someone **did** end up sponsoring me this game, and I had a go at it solo Saturday night, and had a full squad run last night with the bois who sponsored that game for me(or rather, sponsored it enough to make it cheap for me).
 
