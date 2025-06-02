@@ -62,7 +62,7 @@ This is *somewhat* true, as they are recycling the enemies from the Lands Betwee
 
 Outside of that, the environments are actually good - sure, some buildings are recycled - but that doesn't take away from the fun at all, so I can allow it to slide.
 
-Bosses are interesting, but night 3 bosses are something else. Some say it's a tribute to the bosses of the previous games; and while I can see the resemblence, the mechanics are definitely remade and retargeted for a 3-player party. I have yet to beat the boss, but it's no problem.
+Bosses are interesting, but night 3 bosses are something else. Some say it's a tribute to the bosses of the previous games; and while I can see the resemblence, the mechanics are definitely remade and retargeted for a 3-player party. I have yet to beat the boss, but it's no problem. I'll crack it wide open. *Eventually.*
 
 ## Some new issues that arose
 
@@ -79,7 +79,7 @@ Which also brings me to the point of having shitty connection problems.
 
 With most FromSoft Souls games, connection is based off of host connection.<br>
 If you're close to the host, you won't have issues.<br>
-If you are?<br>
+If you aren't?<br>
 **Oh boy.**<br>
 Sliding, no hit/getting hit animations ever playing, hitreg being all over the place, among other connection issues.
 
