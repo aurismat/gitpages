@@ -3,7 +3,7 @@ layout: post
 title:  "Follow-up to \"Why I won't play Elden Ring Nightreign(not yet)\""
 date:   2025-06-02 12:00:00 +0300
 categories: blog
-excerpt: I was wrong about <i>many</i> things. But not all.
+excerpt: <i>Never judge a book by it's cover.</i>
 ---
 
 *> In lieu of everything I have laid out([...]), I will not be purchasing this game full price and I will be holding off on it until either I can get hold of it for cheap, or someone decides to make me play it by sponsoring me a copy of this game.*
