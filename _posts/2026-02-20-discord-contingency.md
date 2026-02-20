@@ -35,7 +35,7 @@ While this may be standard practice in KYC systems (which for something like an 
 
 I’m not claiming investors dictate day-to-day operations. But for users already sensitive to identity aggregation, Persona’s ecosystem and associations (including high-profile investors connected to the wider KYC/surveillance tech world) introduce additional trust ambiguity into an already sensitive process.
 
-A lot of this info has been discovered and documented by `vmfunc` on their own blog: [source][vmfunc_src]
+A lot of this info has been discovered and documented by `vmfunc` on their own blog, so I won't repeat it here - read it on their blog if you want to have the juicy details: [source][vmfunc_src]
 
 Now, let me make this crystal clear. **I’ll verify my identity for banks, employers, and government services *ONLY*. I’m not comfortable normalizing KYC-style identity checks for social platforms.**
 
@@ -57,7 +57,7 @@ Discordless also shares a view on why decentralization is important in this day 
 
 Take your data back. Take back your internet anonymity.
 
-And no; messaging apps like Telegram or WhatsApp are not going to cut it. I respect Signal's dedication to only ask for your phone number and store nothing on their own servers, but ultimately those apps are lacking in features and are only useful for person-to-person chatting.
+And no; messaging apps like Telegram or WhatsApp are not going to cut it. I respect Signal's dedication to only ask for your phone number and [store nothing on their own servers][signal-fbi], but ultimately those apps are lacking in features and are only useful for person-to-person chatting.
 
 IRCv3 seems like a very enticing venture for me, but ultimately it's still IRC, and it'd be a massive friction/pain point for most folks to adapt to it. Can't use that.
 
@@ -196,6 +196,7 @@ _**see you Space Cowboy...**_
 [5ca_databreach]: https://discord.com/press-releases/update-on-security-incident-involving-third-party-customer-service
 [vmfunc_src]: https://vmfunc.re/blog/persona
 [discordless]: https://discordless.com/
+[signal-fbi]: https://signal.org/bigbrother/cd-california-grand-jury/
 [ts-page]: https://teamspeak.com/en/
 [mumble-page]: https://mumble.info/
 [rc-page]: https://rocket.chat
