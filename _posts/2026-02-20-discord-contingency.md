@@ -27,7 +27,7 @@ On February 9th (ironically, on Safer Internet Day), Discord [announced][discord
 
 This controversy also isn’t helped by Discord’s support ecosystem. Their customer service partner 5CA was a [victim of a data breach][5ca_databreach], which reportedly exposed government ID images tied to certain account appeals.
 
-That’s not the same thing as a global KYC-style rollout — but it’s a reminder that once ID data enters a vendor pipeline, the blast radius expands beyond Discord itself. And historically, vendor chains are where “we take security seriously” statements go to die.
+That’s not the same thing as a global KYC-style rollout — but it’s a reminder that once ID data enters a vendor pipeline, the blast radius expands beyond Discord itself. And historically, vendor chains are where "we take security seriously" statements go to die.
 
 More recently, Discord appears to be shifting toward Persona for verification. Unlike k-ID’s on-device validation model (where the ideal outcome is a simple yes/no flag leaving the device), Persona processes facial scan data server-side.
 
