@@ -41,7 +41,7 @@ I'm burnt out as all hell on streaming.
 Not in the 'I hate it' sense - far from it - but more in the "this isn't moving anywhere" sense.
 
 Because the harsh reality of Twitch is this:
-- Discoverability is borderline nonexistant;
+- Discoverability is borderline nonexistent;
 - Twitch constantly pushing ads, both mid-roll and pre-roll is not helping the small streamers;
 - The channel directory is sorted by viewer count (meaning smaller creators can't realistically break through);
 - So unless you're clip-farming 24/7, you're basically invisible.
@@ -60,7 +60,7 @@ After long enough that it starts to resemble the definition of insanity, it has 
 
 So instead of pretending that it is:
 - Streams will slow down even more;
-- I'll still go live whenever I feel like it (birthday stream at May 13th is very likely);
+- I'll still go live whenever I feel like it (birthday stream on May 13th is very likely);
 - But the Twitch channel is no longer the core focus.
 
 Primary focus now will be creating content that exists *even while I'm off-air*.
@@ -104,7 +104,7 @@ Technically? It's essentially solved.
 
 The game originally expected hyper-specific old libraries that break on modern Windows, so:
 
-- I ended up patching it to run cleanly on Windows 10, no CD crap required(not that it was a difficult DRM check, it literally checked for CD presence in that partition);
+- I ended up patching it to run cleanly on Windows 10, no CD crap required (not that it was a difficult DRM check, it literally checked for CD presence in that partition);
 - Verified it across my own systems as well as my mate Hwaldar's to make sure it all works;
 - Even did an one-shot streamed playthrough without issues;
 
@@ -155,7 +155,7 @@ Technically, even I wasn't sure whether this could work and whether VNyan, my VT
 In reality:
 
 - Spout2 was a little too inconsistent for my liking to render them as CRT TV screens;
-- asset sourcing was a pain in the ass(though that was recently resolved as the asset pack's I really wanted author, Sean Nicolas, has [re-published them on Fab][80s-tech-pack]);
+- asset sourcing was a pain in the ass (though that was recently resolved as the asset pack's I really wanted author, Sean Nicolas, has [re-published them on Fab][80s-tech-pack]);
 - Consistency between my own sourced models was awful(also why I wanted to use assets from one vendor);
 
 Which in combination really put this project at a halt. But at this point I'm on Linux now and the entire pipeline needs a solid workaround before I can commit to it, and motivation these days is definitely not there.
@@ -170,7 +170,7 @@ This one has somewhat similar reasons to the VTuber 3D stream room, but they're 
 - I want an outfit design that's both distinct, yet still mine and reusable (thumbnails, animation etc.);
 - April Fools bit, while promising, it was more of experimentation with the funny than any actual progress.
 
-In short; creative block & no real time to push it further.
+In short: creative block & no real time to push it further.
 
 ## Operation: Fuck Windows - Part 2
 
@@ -206,7 +206,7 @@ The core concept of it is this:
 
 Which all sounds amazing for networking and reach on paper.
 
-In practice, because of the three people who'd be co-hosting that channel with me I'm the most technically-savvy person on there, it'd mean that I'd have to be the lead editor, which means more responsibility and deadlines, which I don't want to take on while my own backlog is still sitting there, like some sort of a rhetorical noose around my neck.
+In practice, because of the three people who'd be co-hosting that channel with me, I'm the most technically-savvy person on there, it'd mean that I'd have to be the lead editor, which means more responsibility and deadlines, which I don't want to take on while my own backlog is still sitting there, like some sort of a rhetorical noose around my neck.
 
 I'm not shaking this responsibility, far from it - I'm certainly interested, but I haven't committed to it yet. However, if it does happen, I intend to mirror the reviews here with a written version.
 
