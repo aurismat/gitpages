@@ -7,7 +7,7 @@ excerpt: <i>What's going on in my life(short and long-term).</i>
 ---
 
 This... is going to be a bit of a rant, but also an announcement post.
-Also a 'what the hell have I been doing for the past few years" kind of post.
+Also a "what the hell have I been doing for the past few years" kind of post.
 
 So, without any further ado, let's get the important part out right away:
 
@@ -28,7 +28,7 @@ If you've been around long enough, you've heard or read me talk about:
 
 So yeah, fair question: where *is* all that?
 
-**Short answer*(tl;dr)*:** I've spread myself too thin and tried to juggle too many things without any of them moving forward.
+**Short answer *(tl;dr)*:** I've spread myself too thin and tried to juggle too many things without any of them moving forward.
 
 Long answer is below.
 
@@ -41,9 +41,9 @@ I'm burnt out as all hell on streaming.
 Not in the 'I hate it' sense - far from it - but more in the "this isn't moving anywhere" sense.
 
 Because the harsh reality of Twitch is this:
-- Discoverability is borderline non-existant;
+- Discoverability is borderline nonexistant;
 - Twitch constantly pushing ads, both mid-roll and pre-roll is not helping the small streamers;
-- The channels' directory is sorted by viewer count(meaning small guys can't punch out to the top);
+- The channel directory is sorted by viewer count (meaning smaller creators can't realistically break through);
 - So unless you're clip-farming 24/7, you're basically invisible.
 
 And yeah - I've been very vocal about disliking short-form content pipelines in the past. My position hasn't changed on that.
@@ -54,13 +54,13 @@ And after almost 5 years of doing this as a fun, creative outlet, I was expectin
 Instead, what I got is:
 - A small group of regulars(which I genuinely appreciate <3);
 - Basically zero meaningful growth;
-- Constant loop of "stream did well -> next one doesn't -> motivation tanks"
+- Constant loop of "stream did well -> next one doesn't -> motivation tanks";
 
-After so long that one could almost define it as a definition of insanity, it has come to me that this loop is **not sustainable**.
+After long enough that it starts to resemble the definition of insanity, it has come to me that this loop is **not sustainable**.
 
 So instead of pretending that it is:
 - Streams will slow down even more;
-- I'll still go live whenever I feel like it (birthday stream at May 13th is a highly likely);
+- I'll still go live whenever I feel like it (birthday stream at May 13th is very likely);
 - But the Twitch channel is no longer the core focus.
 
 Primary focus now will be creating content that exists *even while I'm off-air*.
@@ -68,7 +68,7 @@ Primary focus now will be creating content that exists *even while I'm off-air*.
 # The project backlog
 <h5> <i>yeah, I never finished these</i> edition</h5>
 
-Let's go through this graveyeard.
+Let's go through this graveyard.
 
 ## Scavenger SV-4 Camera Modding - Part 2
 
@@ -82,16 +82,16 @@ The first Scavenger SV-4 video was essentially shader surgery where I:
 
 All of which resulted in a really clean game video feed, and all of that worked because SV-4's developer, Khallis, conveniently exposed a lot of that stuff in plaintext in the game files.
 
-So natureally, the next step was to try to make this as useful as I could, with more options/better cleanup, maybe even a runtime injection option.
+So naturally, the next step was to try to make this as useful as I could, with more options/better cleanup, maybe even a runtime injection option.
 
 That's where things went sideways, because going from editing shader files to reverse-engineering a game binary with no previous experience is not a small feat.
 
-In the end, I tried to pivot into a user-friendly patcher program, but in hindsight making a .NET GUI program that wraps PowerShell to run Git commands to make patches turned out to be a compatiblity nightmare.
-Between pathing issues, environment differences and Windows being a pissy fuck that it is, it was never gonna be plug-and-play.
+In the end, I tried to pivot into a user-friendly patcher program, but in hindsight making a .NET GUI program that wraps PowerShell to run Git commands to make patches turned out to be a compatibility nightmare.
+Between pathing issues, environment differences and Windows being... well, Windows, it was never gonna be plug-and-play.
 
 So I scrapped the video. What's left of the attempted patches is in the repo.
 
-Could I revisit this project *at some point* with actual runtime injection, using an overlay with a library like Imgui and having toggleable effects? Probably - but that'd require me to dive deep into reverse engineering than I ever have.
+Could I revisit this project *at some point* with actual runtime injection, using an overlay with a library like Imgui and having toggleable effects? Probably - but that'd require me to dive deeper into reverse engineering than I ever have.
 
 So:
 This project is on ice - not dead per se - but I cannot promise anything either.
@@ -117,7 +117,7 @@ My solution around this was to rip the tracks, stitch them up where necessary to
 
 Which works on paper; but this also means *I'd be redistributing copyrighted audio*, and that's where I hit the crossroads.
 
-Do I put it out in anyway and risk a DMCA takedown, potentially a lawsuit?
+Do I put it out anyway and risk a DMCA takedown, potentially a lawsuit?
 
 There was a workaround I had come up that I would make the user provide their own CD rips, but then I'd need to find a good way to implement making the user hand-feed the music files to stitching scripts via ffmpeg to reconstruct what the game expects, which *could* be doable - I just haven't gotten around to it.
 
@@ -167,7 +167,7 @@ As such, this project is **indefinitely shelved unless I find a clean path forwa
 This one has somewhat similar reasons to the VTuber 3D stream room, but they're more oriented towards a creative block:
 
 - I have multiple lore drafts, none were ever finalized to be cleaned up into something that would be useable;
-- I want an outfit design that's both distint, yet still mine and reuseable (thumbnails, animation etc.);
+- I want an outfit design that's both distinct, yet still mine and reusable (thumbnails, animation etc.);
 - April Fools bit, while promising, it was more of experimentation with the funny than any actual progress.
 
 In short; creative block & no real time to push it further.
@@ -187,7 +187,7 @@ What's missing:
 - Reproducible setup steps - I want to essentially make a cheat-sheet playbook for other curious parties to follow;
 - Cleaned up scripts of irritations that I had to fix myself by scripting;
 - Turn the random notes I have into proper guides;
-- Document my stream setup, which is a rabbit hole in of itself on Linux.
+- Document my stream setup, which is a rabbit hole in itself on Linux.
 
 There's easily a detailed blogpost and maybe even a video sitting there; so what's stopping it?
 
@@ -206,9 +206,9 @@ The core concept of it is this:
 
 Which all sounds amazing for networking and reach on paper.
 
-In practice, because of the three people who'd be co-hosting that channel with me I'm the most technical-savy person on there, it'd mean that I'd have to be the lead editor, which means more responsibility and deadlines, which I don't want to take on while my own backlog is still sitting there, like some sort of a rhethorical noose around my neck.
+In practice, because of the three people who'd be co-hosting that channel with me I'm the most technically-savvy person on there, it'd mean that I'd have to be the lead editor, which means more responsibility and deadlines, which I don't want to take on while my own backlog is still sitting there, like some sort of a rhetorical noose around my neck.
 
-I'm not shaking this responsibility, far from it - I'm certainly interested, but I haven't commited to it yet. However, if it does happen, I intend to mirror the reviews here with a written version.
+I'm not shaking this responsibility, far from it - I'm certainly interested, but I haven't committed to it yet. However, if it does happen, I intend to mirror the reviews here with a written version.
 
 # So what now?
 
@@ -220,7 +220,7 @@ So the shift is simple: I'll be streaming less, but I'll be silently working in 
 
 No hard promises, no fake schedules that I stop following mid-week.
 
-Direction is locked in clearly: **crafting content that doesn't stop being relevant after I stop being live.**
+Direction is locked in clearly: **build content that still matters after the stream ends.**
 
 That being said, streams will happen - just not as the main pillar anymore.
 
